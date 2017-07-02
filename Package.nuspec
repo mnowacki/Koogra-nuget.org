@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Koogra</id>
+    <version>3.1.5.0</version>
+    <authors>Leandro Karunungan, Matthias Gleichmann</authors>
+    <owners>mnowacki</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://sourceforge.net/projects/koogra/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <title>Koogra Excel BIFF/XLSX Reader Library</title>
+    <description>Koogra Excel BIFF/XLSX Reader Library .Net implementation of an Excel file reader for reading unencrypted Excel 97 and up BIFF and XLSX based files.</description>
+    <copyright>Copyright 2009</copyright>
+    <tags>Excel BIFF XLSX</tags>
+  </metadata>
+</package>
