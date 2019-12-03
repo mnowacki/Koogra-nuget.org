@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Koogra</id>
-    <version>3.1.5.0</version>
+    <version>3.1.5.1</version>
     <authors>Leandro Karunungan, Matthias Gleichmann</authors>
     <owners>mnowacki</owners>
     <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
